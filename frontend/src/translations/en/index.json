@@ -1,0 +1,187 @@
+{
+  "header": {
+    "hello-world": "hello World"
+  },
+  "login": {
+    "title": "Sign in to your account",
+    "password": "Password",
+    "btn-login": "Login"
+  },
+  "CreateWorkCenter": {
+    "title": "Create a New Work Center",
+    "wcn": "Work Center Name",
+    "wcc": "Work Center code",
+    "wcCa": "Work Center capacity",
+    "btn-create": "Create"
+  },
+  "createUser": {
+    "title": "Create a new employee",
+    "lastName": "Lastname",
+    "firstname": "Firstname",
+    "password": "Password",
+    "repeatPassword": "Repeat Password",
+    "jobtitle": "Jobtitle",
+    "workcenter": "Work Center",
+    "btn-create": "Create",
+    "statusW": "Worker",
+    "statusM": "Manager",
+    "passwVerif": "Passwords do not match"
+  },
+  "listUsers": {
+    "title": "Employees List",
+    "lastName": "Lastname",
+    "firstname": "Firstname",
+    "wc": "Work Center",
+    "loading": "Loading...",
+    "jobtitle": "Jobtitle"
+  },
+  "listWC": {
+    "title": "Work Centers List",
+    "wcn": "Work Center Name",
+    "wcc": "Code",
+    "wcCa": "Capacity",
+    "statusWC": "Status",
+    "loading": "Loading..."
+  },
+  "createItem": {
+    "title": "Create a new item",
+    "name": "Item Name",
+    "pNumber": "Part Number",
+    "iDescription": "Item Description",
+    "iRouting": "Item Routing",
+    "wcs": "Work Centers Selections",
+    "rDescriptor": "Routing Descriptor",
+    "cycleTime": "Cycle Time (min)",
+    "btn-create": "Create"
+  },
+  "listItems": {
+    "title": "Items List",
+    "name": "Name",
+    "pNumber": "Part Number",
+    "Description": "Description",
+    "loading": "Loading..."
+  },
+  "listOrders": {
+    "title": "Orders List",
+    "name": "Name",
+    "itempartnum": "itempartnum",
+    "number": "number",
+    "Quantity": "Quantity",
+    "Promiseddate": "Promiseddate",
+    "Priority": "Priority",
+    "loading": "Loading..."
+  },
+  "createOrder": {
+    "title": "Create a New Work Order",
+    "name": "Item Name",
+    "ewonOrca": "Enter Work Order number or click autogenerate",
+    "btn-generate": "Generate",
+    "ewopq": "Enter Work Order planned quantity",
+    "ewopd": "Enter Work Order promised date",
+    "pPriority": "Production Priority",
+    "value1": "Low",
+    "value2": "Medium",
+    "value3": "High",
+    "btn-create": "Create"
+  },
+  "ordersListing": {
+    "title1": "Pending orders",
+    "title2": "Priority",
+    "priority": "Priority",
+    "orderNumber": "Order Number",
+    "promiseDate": "Promised Date",
+    "itemPartnumber": "Item Partnumber",
+    "itemName": "Item Name"
+  },
+  "editUser": {
+    "title": "Edit employee",
+    "eLastname": "Edit Lastname",
+    "eFirstname": "Edit Firstname",
+    "eEmail": "Edit Email",
+    "ePassword": "New Password",
+    "eJobtitle": "Edit Jobtitle",
+    "oManager": "Manager",
+    "oWorker": "Worker",
+    "eWC": "Edit Work Center",
+    "eStatus": "Edit Status",
+    "eActive": "Active",
+    "eRetired": "Retired",
+    "btn-edit": "Edit"
+  },
+  "editWorkCenter": {
+    "title": "Edit Work Center",
+    "eCenterName": "Edit Work Center Name",
+    "eCode": "Edit Work Center code",
+    "eCapacity": "Edit Work Center capacity",
+    "eStatus": "Edit Status",
+    "oActive": "Active",
+    "oDisabled": "Disabled",
+    "btn-edit": "Edit"
+  },
+  "navigation": {
+    "createUser": "Create User",
+    "createWCr": "Create work center",
+    "eUser": "Edit User",
+    "eWCr": "Edit Work Center",
+    "alogout": "Logout",
+    "createOrder": "Create Order",
+    "createItem": "Create Item",
+    "editOrder": "Edit Order",
+    "editItem": "Edit Item",
+    "mlogout": "Logout",
+    "orders": "Orders",
+    "wlogout": "Logout"
+  },
+  "order": {
+    "high": "High",
+    "medium": "Medium",
+    "low": "Low",
+    "promisedDate": "Promised date:",
+    "currentOrder": "Current Order",
+    "number": "number:",
+    "priority": "Priority:",
+    "itemName": "Item name:",
+    "itemPartnumber": "Item partnumber:",
+    "routingDescriptor": "Routing descriptor:",
+    "orderProgress": "Order Progress",
+    "badParts": "Defective Parts: ",
+    "goodPart": "Good part report",
+    "submitGood": "Submit",
+    "quality": "Quality: ",
+    "reportDefective": "Report defective parts",
+    "submitDefect": "Submit"
+  },
+  "orderListingItem": {
+    "high": "High",
+    "medium": "Medium",
+    "low": "Low",
+    "takeToWork": "Take to work"
+  },
+  "orderNotSelected": {
+    "msg": "There are no active orders. Select an order from the list below."
+  },
+  "editItem": {
+    "editItem": "Edit item",
+    "itemRouting": "Item Routing",
+    "editWorkCsel": "Work Center Name",
+    "editRoutingDescr": "Edit Routing Description",
+    "editCycleTime": "Edit Cycle Time",
+    "editStatus": "Edit Status",
+    "active": "Active",
+    "disabled": "Disabled"
+  },
+  "editOrder": {
+    "editWOrder": "Edit Work Order",
+    "editWOrderPLQty": "Edit Work Order planned quantity",
+    "editWOrderPrDate": "Edit Work Order promised date",
+    "editProdPrior": "Edit Production Prioroty",
+    "high": "High",
+    "medium": "Medium",
+    "low": "Low"
+  },
+  "infoUser": {
+    "name": "Name",
+    "jobtitle": "Job Title",
+    "wc": "Work Center Code"
+  }
+}
