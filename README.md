@@ -1,6 +1,6 @@
-# SmartCRM
+# CRM for Small and Medium-sized Enterprises
 
-Приложение для контроля исполнения заказ-нарядов в производственных компаниях формата SME (Small and Medium-sized Enterprises)
+Приложение для контроля исполнения заказ-нарядов в производственных компаниях формата SME
 
 Приложение выполняет роль базовой системы контроля производства способное решать следующие задачи:
 
@@ -24,5 +24,3 @@
    [PostgreSQL]: <https://www.postgresql.org/>
    [Sequelize]: <https://sequelize.org/master/>
    [HTML5UP]: <https://html5up.net/>
-# crm-app
-# crm-app
