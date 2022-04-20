@@ -13,4 +13,4 @@
 
 ### Стек
 
-PostgreSQL, Sequelize, Express, React, Redux
+JS, CSS, React, Redux, Saga, Express, PostgreSQL, Sequelize, i18next
